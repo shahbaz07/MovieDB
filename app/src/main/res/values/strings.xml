@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="title_movies">Movies</string>
+    <string name="filter">Filter</string>
+    <string name="start_date">Start date</string>
+    <string name="end_date">End date</string>
+
+    <string name="title">Title:</string>
+    <string name="overview">Overview:</string>
+    <string name="release_date">Release date:</string>
+    <string name="adult">Adult:</string>
+    <string name="vote_count">Vote count:</string>
+    <string name="vote_average">Vote average:</string>
+    <string name="popularity">Popularity:</string>
+
+    <string name="date_required_error">Please select start and end date.</string>
+    <string name="date_error">End date should be greater than start date.</string>
+    <string name="error_request_failed">We have a problem with our server, Please try again.</string>
+    <string name="error_request_timeout">No internet. Connect and retry!</string>
+    <string name="something_went_wrong">Something went wrong</string>
+</resources>
